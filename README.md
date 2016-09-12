@@ -1,0 +1,2 @@
+# JobAppMan
+Job application manager
