@@ -12,5 +12,5 @@ public class makeTrade {
 
         private final TransactionRepo transactionRepo;
        private final AccountRepo accountRepo;
-        public makeTrade()
+        public makeTrade();
 }

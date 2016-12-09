@@ -12,7 +12,7 @@ import java.util.List;
 import com.sun.jna.platform.win32.Advapi32Util;
 import com.sun.org.apache.bcel.internal.Repository;
 import domain.Account;
-import domain.stock
+import domain.stock;
 
 
 public class AccountRepo extends Repository<Account>
