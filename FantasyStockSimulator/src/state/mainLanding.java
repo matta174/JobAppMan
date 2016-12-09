@@ -9,12 +9,10 @@ import static com.sun.glass.ui.Cursor.setVisible;
 /**
  * Created by Matthew on 12/8/2016.
  */
-public class mainLanding {
+public class mainLanding extends JPanel {
 
 
     private JButton button1;
-
-
 
     public mainLanding() {
         button1.addActionListener(new ActionListener() {
